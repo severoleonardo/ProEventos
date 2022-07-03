@@ -1,1 +1,3 @@
-{"ast":null,"code":"import { popScheduler } from '../util/args';\nimport { from } from './from';\nexport function of(...args) {\n  const scheduler = popScheduler(args);\n  return from(args, scheduler);\n}","map":{"version":3,"names":["popScheduler","from","of","args","scheduler"],"sources":["F:/projects/PROEVENTOS/Front/ProEventos-App/node_modules/rxjs/dist/esm/internal/observable/of.js"],"sourcesContent":["import { popScheduler } from '../util/args';\nimport { from } from './from';\nexport function of(...args) {\n    const scheduler = popScheduler(args);\n    return from(args, scheduler);\n}\n"],"mappings":"AAAA,SAASA,YAAT,QAA6B,cAA7B;AACA,SAASC,IAAT,QAAqB,QAArB;AACA,OAAO,SAASC,EAAT,CAAY,GAAGC,IAAf,EAAqB;EACxB,MAAMC,SAAS,GAAGJ,YAAY,CAACG,IAAD,CAA9B;EACA,OAAOF,IAAI,CAACE,IAAD,EAAOC,SAAP,CAAX;AACH"},"metadata":{},"sourceType":"module"}
+version https://git-lfs.github.com/spec/v1
+oid sha256:8c30830c9b65192895eed202de71fa1f7b56d9511fafae94924beb9707cf29ad
+size 846

@@ -1,1 +1,3 @@
-{"ast":null,"code":"import { isFunction } from \"./isFunction\";\nexport function isPromise(value) {\n  return isFunction(value === null || value === void 0 ? void 0 : value.then);\n}","map":{"version":3,"names":["isFunction","isPromise","value","then"],"sources":["F:/projects/PROEVENTOS/Front/ProEventos-App/node_modules/rxjs/dist/esm/internal/util/isPromise.js"],"sourcesContent":["import { isFunction } from \"./isFunction\";\nexport function isPromise(value) {\n    return isFunction(value === null || value === void 0 ? void 0 : value.then);\n}\n"],"mappings":"AAAA,SAASA,UAAT,QAA2B,cAA3B;AACA,OAAO,SAASC,SAAT,CAAmBC,KAAnB,EAA0B;EAC7B,OAAOF,UAAU,CAACE,KAAK,KAAK,IAAV,IAAkBA,KAAK,KAAK,KAAK,CAAjC,GAAqC,KAAK,CAA1C,GAA8CA,KAAK,CAACC,IAArD,CAAjB;AACH"},"metadata":{},"sourceType":"module"}
+version https://git-lfs.github.com/spec/v1
+oid sha256:1b92748206c9f3e6113cf3f57dbdcb543d114947cc69e5a6b70e86371356e7e4
+size 791

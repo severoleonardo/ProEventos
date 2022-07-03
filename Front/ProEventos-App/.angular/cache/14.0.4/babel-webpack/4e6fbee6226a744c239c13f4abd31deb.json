@@ -1,1 +1,3 @@
-{"ast":null,"code":"var EventEmitter = require(\"events\");\n\nmodule.exports = new EventEmitter();","map":{"version":3,"names":["EventEmitter","require","module","exports"],"sources":["F:/projects/PROEVENTOS/Front/ProEventos-App/node_modules/webpack/hot/emitter.js"],"sourcesContent":["var EventEmitter = require(\"events\");\nmodule.exports = new EventEmitter();\n"],"mappings":"AAAA,IAAIA,YAAY,GAAGC,OAAO,CAAC,QAAD,CAA1B;;AACAC,MAAM,CAACC,OAAP,GAAiB,IAAIH,YAAJ,EAAjB"},"metadata":{},"sourceType":"script"}
+version https://git-lfs.github.com/spec/v1
+oid sha256:34b6822238992f8e2a19e429d5ff580a74d02e32821e8b630ff19305da745c04
+size 508

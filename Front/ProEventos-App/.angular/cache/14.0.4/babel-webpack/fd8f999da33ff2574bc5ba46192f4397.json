@@ -1,1 +1,3 @@
-{"ast":null,"code":"import { AsyncScheduler } from './AsyncScheduler';\nexport class QueueScheduler extends AsyncScheduler {}","map":{"version":3,"names":["AsyncScheduler","QueueScheduler"],"sources":["F:/projects/PROEVENTOS/Front/ProEventos-App/node_modules/rxjs/dist/esm/internal/scheduler/QueueScheduler.js"],"sourcesContent":["import { AsyncScheduler } from './AsyncScheduler';\nexport class QueueScheduler extends AsyncScheduler {\n}\n"],"mappings":"AAAA,SAASA,cAAT,QAA+B,kBAA/B;AACA,OAAO,MAAMC,cAAN,SAA6BD,cAA7B,CAA4C"},"metadata":{},"sourceType":"module"}
+version https://git-lfs.github.com/spec/v1
+oid sha256:cd914478a9fa7773ae53faf6d5e2ad5ff39e130a40b5f451a20c09ed7a87a21c
+size 562

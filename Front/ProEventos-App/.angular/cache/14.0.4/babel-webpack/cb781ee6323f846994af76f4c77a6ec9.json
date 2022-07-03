@@ -1,1 +1,3 @@
-{"ast":null,"code":"import { switchMap } from './switchMap';\nimport { identity } from '../util/identity';\nexport function switchAll() {\n  return switchMap(identity);\n}","map":{"version":3,"names":["switchMap","identity","switchAll"],"sources":["F:/projects/PROEVENTOS/Front/ProEventos-App/node_modules/rxjs/dist/esm/internal/operators/switchAll.js"],"sourcesContent":["import { switchMap } from './switchMap';\nimport { identity } from '../util/identity';\nexport function switchAll() {\n    return switchMap(identity);\n}\n"],"mappings":"AAAA,SAASA,SAAT,QAA0B,aAA1B;AACA,SAASC,QAAT,QAAyB,kBAAzB;AACA,OAAO,SAASC,SAAT,GAAqB;EACxB,OAAOF,SAAS,CAACC,QAAD,CAAhB;AACH"},"metadata":{},"sourceType":"module"}
+version https://git-lfs.github.com/spec/v1
+oid sha256:222046d24f73fc6077a1737b62174fee2519170ac0145e0d74ec664ee15b890c
+size 704
