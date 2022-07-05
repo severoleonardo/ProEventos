@@ -1,5 +1,5 @@
-import { Lote } from "./Lote";
 import { Palestrante } from "./Palestrante";
+import { Lote } from "./Lote";
 import { RedeSocial } from "./RedeSocial";
 
 export interface Evento {

@@ -37,13 +37,13 @@ const routes: Routes = [
       { path: 'detalhe/:id', component: EventoDetalheComponent },
       { path: 'detalhe', component: EventoDetalheComponent },
       { path: 'lista', component: EventoListaComponent },
-    ]
+    ],
   },
   { path: 'dashboard', component: DashboardComponent },
   { path: 'palestrantes', component: PalestrantesComponent },
   { path: 'contatos', component: ContatosComponent },
   { path: '', redirectTo: 'dashboard', pathMatch: 'full' }, // caso o usuário não digitar nada no endereço.
-  { path: '**', redirectTo: 'dashboard', pathMatch: 'full' } // caso o usuário digitar caracteres inválidos no endereço.
+  { path: '**', redirectTo: 'dashboard', pathMatch: 'full' }, // caso o usuário digitar caracteres inválidos no endereço.
 ];
 
 @NgModule({

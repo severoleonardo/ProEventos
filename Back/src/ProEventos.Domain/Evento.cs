@@ -1,11 +1,9 @@
 using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
-using System.ComponentModel.DataAnnotations.Schema;
 
 namespace ProEventos.Domain
 {
-    [Table("EventoDetalhes")] /* Data Annotations: altera o nome da tabela quando passada para o BD  */
     public class Evento
     {
         public int Id { get; set; }
